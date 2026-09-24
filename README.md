@@ -1,7 +1,7 @@
 # ScriptsOffice
 Some useful office (Excel) Scripts
 
-🚀 How to actually use a downloaded script again
+## 🚀 How to actually use a downloaded script again
 You must import it into Excel for the Web:
 
 Open Excel Online
