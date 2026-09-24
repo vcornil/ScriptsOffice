@@ -1,6 +1,22 @@
 # ScriptsOffice
 Some useful office (Excel) Scripts
 
+🚀 How to actually use a downloaded script again
+You must import it into Excel for the Web:
+
+Open Excel Online
+
+Go to Automate → All Scripts
+
+Click Import
+
+Select your .osts file
+
+The script appears in Excel Online and is stored in OneDrive
+
+Only then will Excel Desktop be able to run it — but only via the Automate tab, which still connects to the cloud.
+
+
 Store them under:
 
   %USERPROFILE%\Documents\Office Scripts
