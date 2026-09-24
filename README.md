@@ -1,6 +1,20 @@
 # ScriptsOffice
 Some useful office (Excel) Scripts
 
+Office Scripts require a Business or Education subscription, such as:
+
+Microsoft 365 Business Standard / Premium
+
+Microsoft 365 Apps for Enterprise
+
+Office 365 E1 / E3 / E5
+
+A3 / A5
+
+F3
+
+Personal and Family subscriptions do not fully support Office Scripts, even if you joined the Insider program.
+
 ## 🚀 How to actually use a downloaded script again
 You must import it into Excel for the Web:
 
